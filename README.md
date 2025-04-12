@@ -31,6 +31,18 @@ Organized into intuitive panels:
 - ℹ️ About Panel with quick access to support & documentation
 
 ---
+🧪 Upcoming Features (Planned)
+🔄 Object History Panel (Inspired by Maya)
+Track operations like visibility changes, transformations, and isolations — all stored per object. Aimed at improving scene debugging and non-linear workflows.
+
+🧹 Delete History
+Quickly clean object history and reset transform tracking — similar to Maya’s Delete History feature. Ideal for prepping assets before exporting or handing off.
+
+🧊 Freeze Transformations
+Zero out location/rotation/scale while preserving world-space positions. Great for rigging, anim cleanup, and instancing.
+
+📍 Advanced Pivot Controls
+Move, align, and snap pivot points easily (without affecting geometry). Precise pivot workflows for modeling, rigging, and layout.
 
 ## 🔧 Installation
 
@@ -47,6 +59,8 @@ Organized into intuitive panels:
 - Great for animation prep, layout, lookdev, and cluttered scene cleanup.
 
 ---
+
+
 
 ## 🛠 Support & Links
 
