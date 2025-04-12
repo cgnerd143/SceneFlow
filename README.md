@@ -32,6 +32,7 @@ Organized into intuitive panels:
 
 ---
 🧪 Upcoming Features (Planned)
+
 🔄 Object History Panel (Inspired by Maya)
 Track operations like visibility changes, transformations, and isolations — all stored per object. Aimed at improving scene debugging and non-linear workflows.
 
